@@ -21,7 +21,7 @@ This is the research assignment for weeks 10 &amp; 11 in Codepath Cybersecurity 
   
   * Payloads: ![](payload.png)
   
-  * JSON Export: <img src="https://raw.githubusercontent.com/Rofy-Ray/honeypot/master/session.json?token=AHUCC6RC5JME4JS63OSP7YK4Z7F4U" width="800">
+  * JSON Export: [JSON Session](https://raw.githubusercontent.com/Rofy-Ray/honeypot/master/session.json?token=AHUCC6RC5JME4JS63OSP7YK4Z7F4U)
   
 - Any unresolved questions raised by the data collected.
 
